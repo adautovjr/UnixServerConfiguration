@@ -2,7 +2,7 @@
 Udacity Project
 
 ##
-This project's purpose was to completely setup and secure a linux-based server on the internet. Basically, I went through Firewall configurations and used SSH keys to make sure this server will be acessed only by authorized personnel. Also, I left one of my projects running on http, which you can check it out by clicking [http://adautovjr.codes](here).
+This project's purpose was to completely setup and secure a linux-based server on the internet. Basically, I went through Firewall configurations and used SSH keys to make sure this server will be acessed only by authorized personnel. Also, I left one of my projects running on http, which you can check it out by clicking [here](http://adautovjr.codes).
 
 ## Important info
 
@@ -12,8 +12,8 @@ This project's purpose was to completely setup and secure a linux-based server o
 
 ## Tools used
 
-1. [https://wiki.ubuntu.com/UncomplicatedFirewall?action=show&redirect=UbuntuFirewall](Uncomplicated Firewall) was used to block all incoming requests. Then allowed specific ports to be opened.
-2. For this server setup I Used [https://www.nginx.com/](Nginx) to handle requests.
-3. To handle the python code I used [https://gunicorn.org/](GUnicorn).
-4. In order to keep the app running at all times, [http://supervisord.org/](Supervisor) was setup.
-5. The app running on http uses [https://github.com/pallets/flask](Flask), [https://www.sqlalchemy.org/](SQLAlchemy) and [https://auth0.com](auth0).
+1. [Uncomplicated Firewall](https://wiki.ubuntu.com/UncomplicatedFirewall?action=show&redirect=UbuntuFirewall) was used to block all incoming requests. Then allowed specific ports to be opened.
+2. For this server setup I Used [Nginx](https://www.nginx.com/) to handle requests.
+3. To handle the python code I used [GUnicorn](https://gunicorn.org/).
+4. In order to keep the app running at all times, [Supervisor](http://supervisord.org/) was setup.
+5. The app running on http uses [Flask](https://github.com/pallets/flask), [SQLAlchemy](https://www.sqlalchemy.org/) and [auth0](https://auth0.com).
