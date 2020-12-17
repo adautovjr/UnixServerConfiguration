@@ -1,5 +1,7 @@
 # UnixServerConfiguration
-This is an Udacity's Full Stack Web Developer course project submission where the purpose was to completely setup and secure a linux-based server on the internet. Basically, I went through Firewall configurations and used SSH keys to make sure this server will be acessed only by authorized personnel. Also, I left one of my projects running on http, which you can check it out by clicking [here](http://adautovjr.codes).
+This is an Udacity's Full Stack Web Developer course project submission where the purpose was to completely setup and secure a linux-based server on the internet. Basically, I went through Firewall configurations and used SSH keys to make sure this server will be acessed only by authorized personnel.
+
+<!-- Also, I left one of my projects running on http, which you can check it out by clicking [here](http://adautovjr.codes). -->
 
 ## Important info
 
