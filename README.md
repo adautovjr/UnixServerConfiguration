@@ -1,7 +1,4 @@
 # UnixServerConfiguration
-Udacity Project
-
-##
 This project's purpose was to completely setup and secure a linux-based server on the internet. Basically, I went through Firewall configurations and used SSH keys to make sure this server will be acessed only by authorized personnel. Also, I left one of my projects running on http, which you can check it out by clicking [here](http://adautovjr.codes).
 
 ## Important info
